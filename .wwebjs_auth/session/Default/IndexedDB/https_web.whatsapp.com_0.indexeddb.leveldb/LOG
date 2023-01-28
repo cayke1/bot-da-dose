@@ -1,0 +1,51 @@
+2023/01/28-13:14:26.140 268b Reusing MANIFEST /home/cayke/Workspace/wagner/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/28-13:14:26.140 268b Recovering log #127
+2023/01/28-13:14:26.160 268b Reusing old log /home/cayke/Workspace/wagner/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000127.log 
+2023/01/28-13:15:51.949 268b Level-0 table #135: started
+2023/01/28-13:15:52.105 268b Level-0 table #135: 1235944 bytes OK
+2023/01/28-13:15:52.182 268b Delete type=0 #127
+2023/01/28-13:15:55.879 269e Compacting 1@1 + 4@2 files
+2023/01/28-13:15:56.070 269e Generated table #136@1: 28812 keys, 2256324 bytes
+2023/01/28-13:15:56.260 269e Generated table #137@1: 46415 keys, 2268847 bytes
+2023/01/28-13:15:56.424 269e Generated table #138@1: 28213 keys, 2250962 bytes
+2023/01/28-13:15:56.540 269e Generated table #139@1: 20405 keys, 754541 bytes
+2023/01/28-13:15:56.540 269e Compacted 1@1 + 4@2 files => 7530674 bytes
+2023/01/28-13:15:56.613 269e compacted to: files[ 0 0 4 0 0 0 0 ]
+2023/01/28-13:15:56.614 269e Delete type=2 #130
+2023/01/28-13:15:56.614 269e Delete type=2 #135
+2023/01/28-13:15:56.614 269e Delete type=2 #129
+2023/01/28-13:15:56.614 269e Delete type=2 #131
+2023/01/28-13:15:56.615 269e Delete type=2 #132
+2023/01/28-13:17:49.482 268d Level-0 table #141: started
+2023/01/28-13:17:49.619 268d Level-0 table #141: 1291309 bytes OK
+2023/01/28-13:17:49.696 268d Delete type=0 #134
+2023/01/28-13:17:56.160 268a Compacting 1@1 + 4@2 files
+2023/01/28-13:17:56.343 268a Generated table #142@1: 28765 keys, 2255837 bytes
+2023/01/28-13:17:56.530 268a Generated table #143@1: 41373 keys, 2268722 bytes
+2023/01/28-13:17:56.705 268a Generated table #144@1: 32368 keys, 2258046 bytes
+2023/01/28-13:17:56.965 268a Generated table #145@1: 25097 keys, 1030580 bytes
+2023/01/28-13:17:56.965 268a Compacted 1@1 + 4@2 files => 7813185 bytes
+2023/01/28-13:17:57.063 268a compacted to: files[ 0 0 4 0 0 0 0 ]
+2023/01/28-13:17:57.064 268a Delete type=2 #137
+2023/01/28-13:17:57.064 268a Delete type=2 #136
+2023/01/28-13:17:57.064 268a Delete type=2 #138
+2023/01/28-13:17:57.064 268a Delete type=2 #139
+2023/01/28-13:17:57.064 268a Delete type=2 #141
+2023/01/28-13:23:44.557 268b Level-0 table #147: started
+2023/01/28-13:23:44.683 268b Level-0 table #147: 1295066 bytes OK
+2023/01/28-13:23:44.760 268b Delete type=0 #140
+2023/01/28-13:23:48.410 269e Compacting 1@1 + 4@2 files
+2023/01/28-13:23:48.590 269e Generated table #148@1: 28704 keys, 2255623 bytes
+2023/01/28-13:23:48.776 269e Generated table #149@1: 37803 keys, 2268288 bytes
+2023/01/28-13:23:48.940 269e Generated table #150@1: 35835 keys, 2266678 bytes
+2023/01/28-13:23:49.077 269e Generated table #151@1: 28206 keys, 1276697 bytes
+2023/01/28-13:23:49.077 269e Compacted 1@1 + 4@2 files => 8067286 bytes
+2023/01/28-13:23:49.151 269e compacted to: files[ 0 0 4 0 0 0 0 ]
+2023/01/28-13:23:49.151 269e Delete type=2 #145
+2023/01/28-13:23:49.152 269e Delete type=2 #144
+2023/01/28-13:23:49.152 269e Delete type=2 #142
+2023/01/28-13:23:49.152 269e Delete type=2 #147
+2023/01/28-13:23:49.152 269e Delete type=2 #143
+2023/01/28-13:33:57.113 269e Level-0 table #153: started
+2023/01/28-13:33:57.220 269e Level-0 table #153: 1347272 bytes OK
+2023/01/28-13:33:57.296 269e Delete type=0 #146
